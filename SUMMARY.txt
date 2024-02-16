@@ -1,0 +1,122 @@
+Done: Complete the following after you have COMPLETED your project.
+
+1. You are required to make a video for your project, as described in detail at:
+     https://docs.google.com/document/d/13O-pElAg8XwNEMFnpGXIvYZYg82xIaMHytRhTE3PHKs/edit?usp=sharing
+
+   Be sure that your video meets the requirements per the above link!
+   Be sure that your video is visible to your instructors!
+
+   What is the URL of your video?
+
+    https://youtu.be/ZVzjReVSZ0s
+
+2. List the names of the team members for your project.
+
+     Sid Gion and Declan Vail
+
+3. Explain briefly what your project does and how it works.
+
+     This is a 2 player, 1 v 1 top down tank game with
+     randomly generating powerups and a randomly generating map.
+     The goal is to destroy the other player's tank
+
+4. List the names of the classes in your project,
+   identifying who was the primary author(s) for each.
+
+     Tank - Sid Gion
+     Barriers - Sid Gion
+     Game - Sid Gion and Declan Vail
+     View - Declan Vail
+     Controller - Declan Vail
+     Shell - Declan Vail
+     Powerup - Sid Gion and Declan Vail
+     Main - Declan Vail and Sid Gion
+     Big_bullets - Declan Vail
+     Shield - Sid Gion
+     Ramming_mode - Declan Vail
+     Bouncy_bullets - Sid Gion
+     Graphics - Declan Vail
+
+
+5. List the essential features of your game, as written in your
+   Project Description, identifying who was the primary author(s) for each.
+   (For features that you did not implement, if any, indicate so.)
+
+     Tank-like movement - Sid Gion
+     Health bars - Declan Vail
+     Collision mechanics for walls and screen bounds - Sid Gion
+     When bullets collide they disapear - Sid Gion
+     Bullets can be shot from tanks - Declan Vail
+
+
+6. List the additional features of your game that you implemented,
+   identifying who was the primary author(s) for each.
+
+     All additional features were met:
+     Bouncy - Sid Gion
+     Randomly generated maze map - Sid Gion
+     Ramming Mode - Declan Vail
+     Rear Shield - Sid Gion
+     Big Bullets - Declan Vail
+
+
+
+7. List the external modules (libraries) that you used.
+     -- That is, list all the modules in IMPORT statements in your project.
+     -- But do NOT include here the modules that you listed in #3 above,
+          since they are INTERNAL to your project.
+
+     Math, Time, Pygame, and Random
+
+8. List all media items (images, music, other graphics, etc)
+   that are not your own, and their sources (e.g. URLs).
+   [If you no longer know the source, indicate so.]
+
+     Power up instructions background: https://www.bing.com/images/search?view=detailV2&ccid=NYkT8JIJ&id
+     =1611BC347F34018AA9D82B28EDD1D36C0972E806&thid=OIP.NYkT8JIJ8_LNV_PQqhqZPwHaEo&mediaurl=https%3a%2f%
+     2fwww.telegraph.co.uk%2fcontent%2fdam%2fTravel%2f2018%2fNovember%2fGobi-GettyImages-845456048-xlarg
+     e.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.358913f09209f3f2cd57f3d0aa1a993f%3frik%3dBuhyC
+     WzT0e0oKw%26pid%3dImgRaw%26r%3d0&exph=800&expw=1280&q=nice+desert+picture&simid=607986688914452618&
+     FORM=IRPRST&ck=C20ACC288A2CBB73B9FDE8F0B9355A58&selectedIndex=59&ajaxhist=0&ajaxserp=0
+
+     Player controls background: https://www.bing.com/images/search?view=detailV2&ccid=3VMnyeB3&id=464F1
+     77C70DB28DA7AF10A04C4AE47910FF704C1&thid=OIP.3VMnyeB34PwdmAyrTl2mowHaEK&mediaurl=https%3A%2F%2Fth.b
+     ing.com%2Fth%2Fid%2FR.dd5327c9e077e0fc1d980cab4e5da6a3%3Frik%3DwQT3D5FHrsQECg%26riu%3Dhttp%253a%252
+     f%252fs1.picswalls.com%252fwallpapers%252f2014%252f02%252f23%252fdesert-wallpaper-hd_111709788_32.j
+     pg%26ehk%3DfXbXa8HJc0aJHIB4jly9bOMpgbz3deEzfM74C3FdQJg%253d%26risl%3D%26pid%3DImgRaw%26r%3D0&exph=1
+     080&expw=1920&q=nice+desert+picture&simid=608011393587693752&form=IRPRST&ck=4772F162C4EE8D60B931FC9
+     87D602050&selectedindex=40&ajaxhist=0&ajaxserp=0&vt=0&sim=11
+
+     Arrow keys: https://www.bing.com/images/search?view=detailV2&ccid=lAqV%2fmp0&id=D01CD55A25FB33CC48E
+     EF527C8DD96D8AA72687B&thid=OIP.lAqV_mp0OZ-8W0dQphho7QHaFL&mediaurl=https%3a%2f%2fth.bing.com%2fth%2
+     fid%2fR.940a95fe6a74399fbc5b4750a61868ed%3frik%3de2hyqtiW3cgn9Q%26riu%3dhttp%253a%252f%252fstatic.v
+     ecteezy.com%252fsystem%252fresources%252fpreviews%252f000%252f037%252f061%252foriginal%252farrow-ke
+     ys-vectors.jpg%26ehk%3d4qB9UJ9BlqZQ4sJfRnIKPJMmC5Rrw3GIla6sDB19Yjk%253d%26risl%3d%26pid%3dImgRaw%26
+     r%3d0&exph=980&expw=1400&q=arrow+keys+images&simid=608000523007128638&FORM=IRPRST&ck=16D444C20E8203
+     43FA27E9EF4D313EC0&selectedIndex=0&ajaxhist=0&ajaxserp=0
+
+     Shift: https://www.bing.com/images/search?view=detailV2&ccid=Njs3rZpb&id=6CC862230ADA51638288EB068D
+     1B189FDBE2B3F1&thid=OIP.Njs3rZpbwGHn4iVimtvLrwHaC_&mediaurl=https%3a%2f%2f4.bp.blogspot.com%2f_rOyJ
+     S2MXzGY%2fTICYnjXXNVI%2fAAAAAAAAEsA%2fOFN11drfFB0%2fs1600%2fshift_key.png&cdnurl=https%3a%2f%2fth.b
+     ing.com%2fth%2fid%2fR.363b37ad9a5bc061e7e225629adbcbaf%3frik%3d8bPi258YG40G6w%26pid%3dImgRaw%26r%3d
+     0&exph=514&expw=1275&q=left+shift+key+images&simid=608041969415825658&FORM=IRPRST&ck=3A2F277B50496C
+     F2356AA05CF94564C2&selectedIndex=28&ajaxhist=0&ajaxserp=0
+
+     Explosion: https://www.freeiconspng.com/img/45953
+
+    Sand: https://www.bing.com/images/search?view=detailV2&ccid=VTkejJnB&id=FD166F18C9B66727E439383DE782A
+    E4A4751E18A&thid=OIP.VTkejJnB9OGu-yLu2rMiDQHaE8&mediaurl=https%3a%2f%2fevolvtan.com%2fwp-content%2fup
+    loads%2fcache%2f2018%2f09%2fAdobeStock_107493686%2f2900136277.jpeg&cdnurl=https%3a%2f%2fth.bing.com%2
+    fth%2fid%2fR.55391e8c99c1f4e1aefb22eedab3220d%3frik%3diuFRR0quguc9OA%26pid%3dImgRaw%26r%3d0&exph=1200
+    &expw=1798&q=sand+images+top+down&simid=608007489437581394&FORM=IRPRST&ck=7E391D1B1D2019C5744DB5C52FD
+    2BD2B&selectedIndex=94&ajaxhist=0&ajaxserp=0
+
+    Desert Title Image: https://www.tripadvisor.com/Attraction_Review-g293732-d3202730-Reviews-Morocco_Sa
+    hara_Desert_Tours_Day_Tours-Casablanca_Casablanca_Settat.html
+
+
+9. [Optional] Add anything here that would help us assess your
+   project fairly, beyond what you already said/showed in your video.
+
+     A lot of pair programming was done because there is
+     a lot of overlap between classes.

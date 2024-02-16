@@ -1,0 +1,5 @@
+Place your image and sound files in this folder.
+Reference them from your  src  folder per this example
+of code from a file in the  src  folder:
+
+   self.image = pygame.image.load("../assets/fighter.png")
